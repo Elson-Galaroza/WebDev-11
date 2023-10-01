@@ -21,6 +21,7 @@ label, input, button {
     display: block;
     margin-bottom: 10px;
     padding: 10px;
+    width: 100%;
 }
 
 button{ 
@@ -33,3 +34,12 @@ span, p {
     padding: 10px;
 }
 /*  <!-- LAB 1: SIMPLE CALCULATOR IN JAVA SCRIPT -->  */
+
+/*  <!-- LAB 2: Calculate Total Cost with Discount -->  */
+#total-cost-lab2-div{
+    background-color: rgb(164, 164, 164);
+    width: fit-content;
+    padding: 10px; 
+    margin: auto;
+    margin-top: 10vh;
+}
