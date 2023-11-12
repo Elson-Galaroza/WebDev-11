@@ -1,46 +1,4 @@
-/* DEFAULT */
-body{
-    height: 90vh;
-    width: 90vh;
-    background-color: rgb(194, 193, 193);
-    margin: auto;
-}
-
-
-/*  <!-- MIDTERM -->  */
-/*  <!-- LAB 1: SIMPLE CALCULATOR IN JAVA SCRIPT -->  */
-#basic-add-lab1-div{
-    background-color: rgb(164, 164, 164);
-    width: fit-content;
-    padding: 10px; 
-    margin: auto;
-    margin-top: 10vh;
-}
-
-label, input, button {
-    display: block;
-    margin-bottom: 10px;
+button{
     padding: 10px;
-    width: 100%;
-}
-
-button{ 
-    width: 100%;
     background-color: black;
-    padding: 10px;
 }
-span, p {
-    background-color: gray;
-    padding: 10px;
-}
-/*  <!-- LAB 1: SIMPLE CALCULATOR IN JAVA SCRIPT -->  */
-
-/*  <!-- LAB 2: Calculate Total Cost with Discount -->  */
-#total-cost-lab2-div{
-    background-color: rgb(164, 164, 164);
-    width: fit-content;
-    padding: 10px; 
-    margin: auto;
-    margin-top: 10vh;
-}
-/*  <!-- LAB 2: Calculate Total Cost with Discount -->  */
