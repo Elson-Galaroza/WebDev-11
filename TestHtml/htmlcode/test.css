@@ -2,3 +2,12 @@ button{
     padding: 10px;
     background-color: black;
 }
+
+
+#even-list{
+    background-color: red;
+}
+
+#odd-list{
+    background-color: rgb(4, 0, 255);
+}
